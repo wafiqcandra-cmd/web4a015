@@ -1,0 +1,1 @@
+<?php function statusMahasiswa($i){return $i>=3.5?'Cumlaude':'Reguler';} function salam(){return 'Selamat Datang';}?>

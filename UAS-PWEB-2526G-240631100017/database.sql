@@ -1,0 +1,1 @@
+CREATE DATABASE db_mahasiswa;USE db_mahasiswa;CREATE TABLE mahasiswa(id INT AUTO_INCREMENT PRIMARY KEY,nim VARCHAR(20),nama VARCHAR(100),prodi VARCHAR(100),ipk FLOAT);INSERT INTO mahasiswa(nim,nama,prodi,ipk) VALUES('2301','Andi','Informatika',3.8),('2302','Budi','SI',3.2),('2303','Citra','TI',3.7),('2304','Dina','MI',3.1),('2305','Eko','SI',3.9);
