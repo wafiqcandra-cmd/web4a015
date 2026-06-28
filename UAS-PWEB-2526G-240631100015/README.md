@@ -146,8 +146,13 @@ MySQL
 Aplikasi Tangkapan Layar
 
 ## Aplikasi Tangkapan Layar
+<img width="1918" height="933" alt="Screenshot 2026-06-28 141438" src="https://github.com/user-attachments/assets/b6d5fc19-e7c4-4f17-b1a8-bf48655254d3" />
+<img width="1918" height="920" alt="Screenshot 2026-06-28 141458" src="https://github.com/user-attachments/assets/2d1f1bb3-9378-4e96-a8f6-98060d0f34f6" />
+<img width="1918" height="898" alt="Screenshot 2026-06-28 141519" src="https://github.com/user-attachments/assets/78d94174-de72-4112-bc4e-b950bd3a7ed3" />
+<img width="1917" height="928" alt="Screenshot 2026-06-28 141525" src="https://github.com/user-attachments/assets/2f59fd96-f888-4f79-930e-ae2756a5854d" />
+<img width="1918" height="910" alt="Screenshot 2026-06-28 141535" src="https://github.com/user-attachments/assets/6bf4da34-3760-45bb-a624-74d4ef6f5fa1" />
 
-**Halaman Login:**
+
 
 
 
