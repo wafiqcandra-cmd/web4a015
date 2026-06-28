@@ -148,13 +148,7 @@ Aplikasi Tangkapan Layar
 ## Aplikasi Tangkapan Layar
 
 **Halaman Login:**
-![Tampilan Login](login.png)
 
-**Halaman Tambah Data:**
-![Tampilan Tambah Data](tambah.png)
-
-**Halaman Logout:**
-![Tampilan Logout](Logout.png)
 
 
 Pernyataan Penggunaan GenAI
